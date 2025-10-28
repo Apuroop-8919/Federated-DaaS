@@ -1,7 +1,7 @@
 # Federated-DaaS
 Privacy Preserving Federated Learning DaaS platform for demo purpose
 
-# Privacy-Preserving Federated Learning DaaS MVP
+# Privacy-Preserving Federated Learning DaaS
 
 ## What is this?
 Collaborative AI platform prototype for SmartIDEAthon 2025, demonstrating privacy-preserving federated learning. Institutions (e.g., hospitals, banks, colleges) train models locally—only the weights (not the data) are shared and aggregated.
@@ -13,7 +13,7 @@ Collaborative AI platform prototype for SmartIDEAthon 2025, demonstrating privac
 - Works for healthcare, finance, education, sports datasets
 
 ## Demo Results
-- Model accuracy improves from ~62% → ~85% over 5 federated rounds  
+- Model accuracy improves from ~62% → ~85% over 5 federated rounds (assumption) 
 - Output chart: `federated_learning_results.png`
 
 ## How to Run
