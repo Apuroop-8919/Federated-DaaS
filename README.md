@@ -19,8 +19,8 @@ Collaborative AI platform prototype for SmartIDEAthon 2025, demonstrating privac
 ## How to Run
 1. Clone repo:
     ```
-    git clone https://github.com/YOUR-USERNAME/smartideathon-federated-daas-demo.git
-    cd smartideathon-federated-daas-demo
+    git clone https://github.com/Apuroop-8919/Federated-DaaS.git
+    cd Federated-DaaS
     ```
 2. (Optional) Create Python environment, install dependencies:
     ```
